@@ -1,11 +1,10 @@
-/* Universal selector to select all of the content on the page*/
+/* Universal selector that selects all elements on the page*/
 * {
     box-sizing: border-box;
     padding: 0;
-    margin: 0
+    margin: 0;
 }
 
-/* Body section of content*/
 body {
     background-color: #d9dcd6;
 }
