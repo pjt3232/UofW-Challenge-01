@@ -1,13 +1,16 @@
+/* Universal selector to select all of the content on the page*/
 * {
     box-sizing: border-box;
     padding: 0;
-    margin: 0;
+    margin: 0
 }
 
+/* Body section of content*/
 body {
     background-color: #d9dcd6;
 }
 
+/* Header section*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -50,6 +53,7 @@ p {
     font-size: 16px;
 }
 
+/* Background image between header and content*/
 .hero {
     height: 800px;
     width: 100%;
@@ -75,6 +79,7 @@ p {
     margin-left: 20px;
 }
 
+/* <aside> content section*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -134,6 +139,7 @@ p {
     max-width: 150px;
 }
 
+/* search engine optimization section of main content*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -143,6 +149,7 @@ p {
     color: #ffffff;
 }
 
+/* online reputation management section of main content*/
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -152,6 +159,7 @@ p {
     color: #ffffff;
 }
 
+/* social media marketing section of main content*/
 .social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
@@ -188,7 +196,9 @@ p {
     font-size: 36px;
 }
 
+/*footer section : dispaly none per Mockup*/
 .footer {
+    display: none;
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
