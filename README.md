@@ -15,3 +15,4 @@ I used a third-party as the starter code for this project. The user's GitHub acc
 Creator of the starter code: xandromus@github.com
 URL: https://github.com/coding-boot-camp/urban-octo-telegram
 
+The starter code is located in the HTML file, CSS file, and the images folder. It supplied the structure, styling, and images for the application.
