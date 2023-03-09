@@ -9,8 +9,8 @@ To install this application go to the url "https://pjt3232.github.io/UofW-Challe
 ## Usage
 To use this application, go the url "https://pjt3232.github.io/UofW-Challenge-01/". 
 
-The URL should leade you to a webpage that looks like this screenshot below:
-
+The URL should lead you to a webpage that looks like this screenshot below:
+<img src="./assets/images/UofW-Challenge-01-Screenshot" alt="Screenshot of my project">
 
 The header has a navigation bar which will direct you to the three main sections of content found on the pagge which are "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing". The page is intended to provide information on those topics as well as the benefits of these tactics, which is located in the sidebard to the right of the main three sections of content.
 
