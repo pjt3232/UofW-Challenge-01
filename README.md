@@ -7,7 +7,12 @@ My motivation for this project was to learn about skills such as HTML, CSS, and 
 To install this application go to the url "https://pjt3232.github.io/UofW-Challenge-01/" on the browser of your choice.
 
 ## Usage
-To use this application, go the url "https://pjt3232.github.io/UofW-Challenge-01/". The header has a navigation bar which will direct you to the three main sections of content found on the pagge which are "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing". The page is intended to provide information on those topics as well as the benefits of these tactics, which is located in the sidebard to the right of the main three sections of content.
+To use this application, go the url "https://pjt3232.github.io/UofW-Challenge-01/". 
+
+The URL should leade you to a webpage that looks like this screenshot below:
+
+
+The header has a navigation bar which will direct you to the three main sections of content found on the pagge which are "Search Engine Optimization", "Online Reputation Management", and "Social Media Marketing". The page is intended to provide information on those topics as well as the benefits of these tactics, which is located in the sidebard to the right of the main three sections of content.
 
 ## Credits
 I used a third-party as the starter code for this project. The user's GitHub account and the url of the remote repository for the starter code is listed below:
